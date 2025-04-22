@@ -13,7 +13,7 @@ An intelligent Fantasy Premier League (FPL) data exploration tool powered by Str
 
 ## 🚀 Demo
 
-Coming soon – Streamlit Share / Local link
+Coming soon – Streamlit Share / Local link(http://localhost:8501/)
 
 ## 📸 Screenshots
 
