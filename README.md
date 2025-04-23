@@ -17,7 +17,7 @@ Coming soon – Streamlit Share / Local link(http://localhost:8501/)
 
 ## 📸 Screenshots
 
-![upload](https://github.com/DnOsoro/-FPL-Insights-Assistant/blob/main/Screenshot%20from%202025-04-22%2018-10-16.png)
+![upload](https://github.com/DnOsoro/FPL-Insights-Assistant/blob/main/Screenshot%20from%202025-04-23%2009-46-41.png)
 ![upload](https://github.com/DnOsoro/-FPL-Insights-Assistant/blob/main/Screenshot%20from%202025-04-22%2018-10-16.png)
 ![example](https://github.com/DnOsoro/-FPL-Insights-Assistant/blob/main/Screenshot%20from%202025-04-22%2018-15-09.png)
 
